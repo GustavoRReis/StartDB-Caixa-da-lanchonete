@@ -191,3 +191,26 @@ button:hover {
   font-size: 18px;
   line-height: 1.5;
 }
+
+
+@media (max-width: 768px) {
+  .card {
+    flex-basis: calc(50% - 20px);
+  }
+  
+  
+  .modal-content {
+    width: 80%;
+  }
+}
+
+@media (max-width: 425px) {
+  .cardapio {
+    flex-direction: column;
+  }
+  
+  
+  select, input {
+    width: 90%;
+  }
+}
