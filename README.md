@@ -29,5 +29,7 @@ Para garantir a qualidade e a funcionalidade correta da classe `CaixaDaLanchonet
 - Execute os testes para garantir a funcionalidade da classe:
 `npm test`
 
+## Extra:
 
+- Após realizar o desafio implementei um front-end para visualização do cardapio e realização do pedido. Fiz como um adicional ao projeto, mas reitero que realizei o objetivo principal. 
 
